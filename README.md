@@ -2,7 +2,7 @@
 Coupon Acceptance Rate Analysis of UCI Machine Learning Repository (via a survey on Amazon Mechanical Turk)
 
 ## Notebook
-[View the Jupyter Notebook here](https://github.com/yourusername/coupon-acceptance-analysis/blob/main/coupon_analysis.ipynb)
+[View the Jupyter Notebook here](https://github.com/t3t3t3-coder/coupon-acceptance-analysis/blob/main/coupon_analysis_tt.ipynb)
 
 # Findings on Acceptance Rates for Bar Coupons
 *   Drivers who received bar coupons had an overall acceptance rate of **40%**.
