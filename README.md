@@ -1,5 +1,9 @@
 # coupon-acceptance-analysis
 Coupon Acceptance Rate Analysis of UCI Machine Learning Repository (via a survey on Amazon Mechanical Turk)
+
+## Notebook
+[View the Jupyter Notebook here](https://github.com/yourusername/coupon-acceptance-analysis/blob/main/coupon_analysis.ipynb)
+
 # Findings on Acceptance Rates for Bar Coupons
 *   Drivers who received bar coupons had an overall acceptance rate of **40%**.
 *   Drivers who went to a bar 3 or fewer times a month had an acceptance rate of 37.05% compared to those who went to a bar more than 3 times a month at **76.88%**.
